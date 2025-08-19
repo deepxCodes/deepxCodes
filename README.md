@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👨‍💻 DeepxCodes  
 
-<!--
-**deepxCodes/deepxCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *"Turning coffee into code, ideas into reality, and bugs into features."*  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+I’m a **Computer Science Explorer** 🌐 with a strong passion for:  
+- 🔐 **Cybersecurity** – Breaking into systems (ethically 😉) before the bad guys do.  
+- ⚡ **C / C++** – For the raw power & control over machines.  
+- 🎨 **Frontend Development (HTML, CSS, JavaScript)** – Crafting sleek & interactive UIs.  
+- 🐍 **Python** – Automating chaos & making life simpler.  
+- 🎮 **Game Development (a little)** – Because why just play games when you can build them?  
+
+---
+
+## 🛠️ Tech Playground  
+```yaml
+Languages : C, C++, Python, JavaScript  
+Web       : HTML, CSS, React (learning)  
+Security  : Kali Linux, Penetration Testing, Network Security  
+Fun Side  : Exploring Game Engines & Creative Coding
+
+
+Building cool projects in C/C++ & Python
+
+Polishing my Frontend Dev skills
+
+Experimenting with mini-games & gamified apps
+
+⚡ Motto
+
+"Hack. Build. Secure. Repeat."
