@@ -31,7 +31,7 @@ Web       : HTML, CSS, React (learning)
 Security  : Kali Linux, Penetration Testing, Network Security  
 Fun Side  : Exploring Game Engines & Creative Coding
 
----
+```
 
  ## 🌱 Current Journey
 
