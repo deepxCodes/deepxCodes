@@ -27,7 +27,6 @@ I’m a **Computer Science Explorer** 🌐 with a strong passion for:
 ```yaml
 Languages : C, C++, Python, JavaScript  
 Web       : HTML, CSS, React (learning)  
-Security  : Kali Linux, Penetration Testing, Network Security  
 Fun Side  : Exploring Game Engines & Creative Coding
 
 ```
