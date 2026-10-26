@@ -34,8 +34,6 @@ Fun Side  : Exploring Game Engines & Creative Coding
 
  ## 🌱 Current Journey
 
-🥷 Mastering Cybersecurity like a digital ninja
-
 🛠️ Building cool projects in C/C++ & Python
 
 🎨 Polishing my Frontend Dev skills
