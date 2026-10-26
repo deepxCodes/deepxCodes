@@ -6,7 +6,6 @@
 
 ## 🚀 About Me  
 I’m a **Computer Science Explorer** 🌐 with a strong passion for:  
-- 🔐 **Cybersecurity** – Breaking into systems (ethically 😉) before the bad guys do.  
 - ⚡ **C / C++** – For the raw power & control over machines.  
 - 🎨 **Frontend Development (HTML, CSS, JavaScript)** – Crafting sleek & interactive UIs.  
 - 🐍 **Python** – Automating chaos & making life simpler.  
